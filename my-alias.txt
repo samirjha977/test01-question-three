@@ -1,0 +1,1 @@
+cup='mkdir ~/cupcakes && mkdir ~/cupcakes/are-not && touch better-than-donuts.txt && echo "SPRINKLES \n $PWD" >> $_'
